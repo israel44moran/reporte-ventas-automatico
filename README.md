@@ -1,4 +1,4 @@
-# Reporte Automático de Ventas
+﻿# Reporte Automático de Ventas
 
 Sistema en Python que lee un archivo Excel de ventas, genera un reporte semanal en **PDF profesional** y lo envía por **correo electrónico** a una lista de destinatarios. Pensado para correr automáticamente cada lunes a primera hora.
 
@@ -124,4 +124,4 @@ Para enviar el mismo PDF por WhatsApp se puede integrar la API de **Twilio** o *
 
 ## Autor
 
-Israel Morán
+Israel Moran
